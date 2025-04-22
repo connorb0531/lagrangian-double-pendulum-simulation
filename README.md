@@ -1,6 +1,8 @@
 Lagrangian Double Pendulum Simulation
 ==========================
 
+![Demo](assets/animation.gif)
+
 Overview
 --------
 This project simulates and animates a double pendulum using physics derived from the Lagrangian (Euler-Lagrange equations). It uses numerical integration (Runge-Kutta 4th order method) to evolve the system over time and generates a visual animation (GIF) of the pendulum's motion.
